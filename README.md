@@ -3,7 +3,7 @@
 
 From Chananya's CashAndTrack code: https://github.com/forfeen/CashAndTrack
 
-In the `CashAndTrack/cashandtrack/Customer.java` class
+## In the `CashAndTrack/cashandtrack/Customer.java` class
 
 https://github.com/forfeen/CashAndTrack/blob/master/cashandtrack/Customer.java
 
@@ -49,8 +49,7 @@ consider this code:
         } return false;
     }
 ```
-### equalsTo() method
-In the `CashAndTrack/cashandtrack/Menu.java` class
+## In the `CashAndTrack/cashandtrack/Menu.java` class
 
 https://github.com/forfeen/CashAndTrack/blob/master/cashandtrack/Menu.java
 
@@ -100,8 +99,8 @@ consider this code:
     }
 ```
 
-### private void enterHandler(ActionEvent event)
-In the `CashAndTrack/cashandtrack/screen/MenuScreen.java` class
+
+## In the `CashAndTrack/cashandtrack/screen/MenuScreen.java` class
 
 https://github.com/forfeen/CashAndTrack/blob/master/cashandtrack/screen/MenuScreen.java
 
@@ -118,8 +117,8 @@ class enterHandler implements EventHandler<ActionEvent> {
 ```
 * Refactoring: Extract method.
 
-### testRemoverOrder() method
-In the `CashAndTrack/cashandtrack/test/CartTest.java` class
+
+## In the `CashAndTrack/cashandtrack/test/CartTest.java` class
 
 https://github.com/forfeen/CashAndTrack/blob/master/cashandtrack/test/CartTest.java
 
