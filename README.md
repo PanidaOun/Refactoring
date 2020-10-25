@@ -32,7 +32,7 @@ consider this code:
   - Rename method.
     
     In Eclipse or IntelliJ, select the method name and use `Refactor -> Rename` to change it everywhere.
-  - use .equalsIgnoreCase instead of .toLowerCase().equals
+  - use .equalsIgnoreCase() instead of .toLowerCase().equals()
   - Combine if statement in one condition.
   - Remove unnecessary if statement.
 ```java
@@ -79,7 +79,7 @@ consider this code:
   - Rename method.
     
     In Eclipse or IntelliJ, select the method name and use `Refactor -> Rename` to change it everywhere.
-  - use .equalsIgnoreCase instead of .toLowerCase().equals
+  - use .equalsIgnoreCase() instead of .toLowerCase().equals()
   - Combine if statement in one condition.
   - Remove unnecessary if statement.
 
